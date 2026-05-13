@@ -7,6 +7,3 @@
 [submodule "third-party/gperftools"]
 	path = third-party/gperftools
 	url = https://github.com/gperftools/gperftools.git
-[submodule "third-party/cereal"]
-	path = third-party/cereal
-	url = https://github.com/openfheorg/cereal.git
